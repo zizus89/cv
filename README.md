@@ -4,6 +4,8 @@
 
 * Name: Kirill Bogdanov
 
+* 20 juli 1989 
+
 * Location: Russia, Chaikovsky
 
 * Mobile: +79223106725
