@@ -19,7 +19,7 @@
 
 My first programming language is Ruby, I started to study it and other technologies from February 2021 
 
-My current stack of technologies is: Ruby, Rails, Postgres, git, Rspec
+My current stack of technologies is: Ruby, Rails, PostgreSQL, git, Rspec
 
 
 * LANGUAGES
