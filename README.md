@@ -23,7 +23,7 @@ My first programming language is Ruby, I started to study it and other technolog
 
 My current stack of technologies is: Ruby, Rails, PostgreSQL, git, Rspec
 
-Цork experience:
+Work experience:
 
 Machinio.com
 Ruby dev 06.2021 - ...
